@@ -123,6 +123,127 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1 &15937414
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 15937415}
+  - component: {fileID: 15937416}
+  m_Layer: 0
+  m_Name: Dunder
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &15937415
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 15937414}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 562152822}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &15937416
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 15937414}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 021f6e1c80211824e92bdebaa640501b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Zero: {fileID: 8300000, guid: 6d1cb27faf0215545a2cdaca78f2ebd2, type: 3}
+  One: {fileID: 8300000, guid: 96203c8cf5bbcf6418d56a43225b3622, type: 3}
+  Two: {fileID: 0}
+  Three: {fileID: 0}
+  Four: {fileID: 0}
+  Five: {fileID: 0}
+  Six: {fileID: 0}
+  Seven: {fileID: 0}
+  Eight: {fileID: 0}
+  Nine: {fileID: 0}
+  A: {fileID: 0}
+  B: {fileID: 0}
+  C: {fileID: 0}
+  D: {fileID: 0}
+  E: {fileID: 0}
+  F: {fileID: 0}
+  G: {fileID: 0}
+  H: {fileID: 0}
+  I: {fileID: 0}
+  J: {fileID: 0}
+  K: {fileID: 0}
+  L: {fileID: 0}
+  M: {fileID: 0}
+  N: {fileID: 0}
+  O: {fileID: 0}
+  P: {fileID: 0}
+  Q: {fileID: 0}
+  R: {fileID: 0}
+  S: {fileID: 0}
+  T: {fileID: 0}
+  U: {fileID: 0}
+  V: {fileID: 0}
+  W: {fileID: 0}
+  X: {fileID: 0}
+  Y: {fileID: 0}
+  Z: {fileID: 0}
+  Misc: {fileID: 0}
+  myVoicebank:
+  - {fileID: 8300000, guid: 6d1cb27faf0215545a2cdaca78f2ebd2, type: 3}
+  - {fileID: 8300000, guid: 96203c8cf5bbcf6418d56a43225b3622, type: 3}
+  - {fileID: 8300000, guid: a44d2b2d232006f46b2135bafeccb0d8, type: 3}
+  - {fileID: 8300000, guid: bfb51edbd3647924e97e6c1fa6b57c4c, type: 3}
+  - {fileID: 8300000, guid: 7fd1689dbb11e10469a163055b720137, type: 3}
+  - {fileID: 8300000, guid: bc2daf4669b3df144903d96c8564d203, type: 3}
+  - {fileID: 8300000, guid: d584f09f5eef42c4c879d50b538c0449, type: 3}
+  - {fileID: 8300000, guid: 016af187cc5fa1a499de9a1a6a6efcdf, type: 3}
+  - {fileID: 8300000, guid: a121f622b5ce7f64da6c657e4f8c8149, type: 3}
+  - {fileID: 8300000, guid: 014303f4c5f8abe42bcb000c4f69d856, type: 3}
+  - {fileID: 8300000, guid: ae763f98eafeaf941bc23dd1630f971e, type: 3}
+  - {fileID: 8300000, guid: 527dc90100528c549b2f659e47e1d8e4, type: 3}
+  - {fileID: 8300000, guid: b5aa9fcc1df6a1a44b3cec610928f5af, type: 3}
+  - {fileID: 8300000, guid: a068a658ffda5f84cbc3737ce18e5e21, type: 3}
+  - {fileID: 8300000, guid: fc51c3ea12f8b114c9223ee52eb44802, type: 3}
+  - {fileID: 8300000, guid: 9a08d34828166774cab409952b907fb4, type: 3}
+  - {fileID: 8300000, guid: dacc7dcfccd77d545a358928aaa14344, type: 3}
+  - {fileID: 8300000, guid: 1d66fb92b10f7944f9a716ae4a5f4c22, type: 3}
+  - {fileID: 8300000, guid: 7f0b49cce804e924687be397e3549638, type: 3}
+  - {fileID: 8300000, guid: 0df0c4cb63a84f8488501a2eb33e5856, type: 3}
+  - {fileID: 8300000, guid: f2db523c3a62f504896a31cf6bf6960f, type: 3}
+  - {fileID: 8300000, guid: ee88618c68a887344a448d11a12b6263, type: 3}
+  - {fileID: 8300000, guid: 72eed3b5851f8a94089689b131943ea7, type: 3}
+  - {fileID: 8300000, guid: cb8cccdcf01eba24a986c1635cbbdac4, type: 3}
+  - {fileID: 8300000, guid: 47dcb1cda8f52ad449c8cdfdb624387e, type: 3}
+  - {fileID: 8300000, guid: fed812cd9c4748c49a55897a64b478bb, type: 3}
+  - {fileID: 8300000, guid: d418749d6f9cbfa47ac482ebd046e026, type: 3}
+  - {fileID: 8300000, guid: 41fde1b7de58dd5478cb38a415cceca1, type: 3}
+  - {fileID: 8300000, guid: 842c946d0124e6b40bcf1d84672bfc9e, type: 3}
+  - {fileID: 8300000, guid: f7866aa2ec538ff46b4406a985bd7327, type: 3}
+  - {fileID: 8300000, guid: b52b7e5e0dcd4a648ad10e9a7c63469b, type: 3}
+  - {fileID: 8300000, guid: 1f73655a660666f49a2915b322743c98, type: 3}
+  - {fileID: 8300000, guid: 14a2543c43289fa418a456b6c5afaddf, type: 3}
+  - {fileID: 8300000, guid: 2a93a07c02c54a14592a5b1369ef0b01, type: 3}
+  - {fileID: 8300000, guid: 02ca233ca6f609846a01ada2b54c5787, type: 3}
+  - {fileID: 8300000, guid: d742adf80bd233b4da27a3d2fa8a2bd6, type: 3}
+  - {fileID: 8300000, guid: 6335ed079aae2cf44832e930453c1ee4, type: 3}
+  voicebankName: Dunder From Z Vocal Project
+  loadVoicebank: 0
 --- !u!1 &251720068
 GameObject:
   m_ObjectHideFlags: 0
@@ -132,6 +253,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 251720072}
+  - component: {fileID: 251720073}
   - component: {fileID: 251720071}
   - component: {fileID: 251720070}
   - component: {fileID: 251720069}
@@ -226,6 +348,27 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!114 &251720073
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 251720068}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b301786cd034ec4b80d3b840160dee8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  animals:
+  - {fileID: 15937416}
+  chosenVoicebank: 0
+  channels: []
+  pitch: 1
+  pitchVariance: 1.1
+  multiplierExcite: 1.1
+  letterDelayInSeconds: 0.1
+  letterDelayVarianceInSeconds: 0.03
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -361,6 +504,38 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &562152821
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 562152822}
+  m_Layer: 0
+  m_Name: Voicebanks
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &562152822
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 562152821}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 767.46356, y: 375.19745, z: -4.7903056}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 15937415}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &619394800
@@ -671,3 +846,4 @@ SceneRoots:
   - {fileID: 619394802}
   - {fileID: 251720072}
   - {fileID: 691160406}
+  - {fileID: 562152822}
